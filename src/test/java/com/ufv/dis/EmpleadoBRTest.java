@@ -10,7 +10,7 @@ class EmpleadoBRTest {
 
     @Test
     void calcularSalarioBruto() {
-        assertEquals(1360, empleado.calcularSalarioBruto(TipoEmpleado.VENDEDOR, 2000, 8));
+        assertEquals(1360, empleado.calcularSalarioBruto(TipoEmplead .VENDEDOR, 2000, 8));
     }
 
     @Test
